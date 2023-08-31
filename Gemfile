@@ -8,6 +8,9 @@ gem "rails", "~> 7.0.7", ">= 7.0.7.2"
 gem 'mongoid', "~> 7.5.0"
 gem 'mongo', "~> 2.15.0"
 
+# Devise for user auth
+gem 'devise'
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
